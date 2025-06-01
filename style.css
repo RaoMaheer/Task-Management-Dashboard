@@ -36,6 +36,8 @@
 body{
     height: 100vh;
     background-color: wheat;
+    overflow-x: hidden;
+
 }
 
 .main-cont{
